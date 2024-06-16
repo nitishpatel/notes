@@ -11,8 +11,12 @@
             "id": "7415a359c4bd5a45",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "developer/hello-world.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "developer/hello-world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "developer/hello-world.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "developer/hello-world.md"
+              }
             }
           }
         ]
@@ -138,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7415a359c4bd5a45",
+  "active": "94f37bc5745efd97",
   "lastOpenFiles": [
+    "developer/index.md",
+    "developer/hello-world.md",
+    "developer/Redux Toolkit.md",
+    "index.md",
     "Topic 1/Note 2.md",
     "Topic 1/Note 1.md",
-    "index.md",
     "Features/Mermaid Diagrams.md",
-    "Features/LaTeX Math Support.md",
-    "developer/posts/hello-world.md",
-    "developer/index.md",
-    "developer/posts/Redux Toolkit.md"
+    "Features/LaTeX Math Support.md"
   ]
 }
