@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "9fb63a58db32601b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6ece941cc894f42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7415a359c4bd5a45",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc33965c702fa3b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc67ff7069ae6563",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94f37bc5745efd97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e10aac1236f73165",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3bf9147b7eb46125",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "558f9cb1122ccf11",
+    "type": "split",
+    "children": [
+      {
+        "id": "bea3d690f36fe046",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afa9fdb1f938834b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "391c808ebc44a2c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b2e1640ffddb3a27",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b9a86930d2401903",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7415a359c4bd5a45",
+  "lastOpenFiles": [
+    "Topic 1/Note 2.md",
+    "Topic 1/Note 1.md",
+    "index.md",
+    "Features/Mermaid Diagrams.md",
+    "Features/LaTeX Math Support.md",
+    "developer/posts/hello-world.md",
+    "developer/index.md",
+    "developer/posts/Redux Toolkit.md"
+  ]
+}
